@@ -34,4 +34,4 @@ Bachelor's thesis testing a thermodynamic criterion for the merger scale of bina
 | Degree | Institution | Period |
 |---|---|---|
 | MSc Theoretical Physics | University of Amsterdam & Vrije Universiteit Amsterdam | 2026 – Present |
-| BSc Physics | University of Milano-Bicocca | 2026 |
+| BSc Physics | University of Milano-Bicocca | 2023 - 2026 |
